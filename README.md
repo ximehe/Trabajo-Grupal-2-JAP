@@ -1,4 +1,4 @@
-# Trabajo-Grupal-2-JAP
+# Trabajo-Grupal-2-JAP ✅
 
 Para este trabajo grupal, nos dieron adjunta una página web cuyo objetivo es guardar un listado de los ítems agregados por el usuario en el almacenamiento local, e irlos mostrando en una lista ya definida para ello.
 
